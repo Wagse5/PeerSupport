@@ -1,0 +1,13 @@
+{
+  "name": "soulconnect-landing",
+  "version": "1.0.0",
+  "description": "Landing page for Soulconnect - Culturally-Adapted Support for NRIs",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
